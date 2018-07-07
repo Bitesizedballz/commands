@@ -1,0 +1,25 @@
+# commands
+!binx
+!bitties
+!followage
+!hosting
+!jackbox
+!multi
+!muted
+!sos
+!uptime
+!v2
+!wt
+!discord
+!badboys
+!dunnexit
+!dunnexit2
+!fly
+!fortnite
+!frostyexit
+!kinhato
+!lurk
+!sorrykitty
+!twitter
+!sub
+!throw
